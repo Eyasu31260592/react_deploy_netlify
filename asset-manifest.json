@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/color_picker/static/css/main.12c48750.css",
-    "main.js": "/color_picker/static/js/main.c9ff3ee6.js",
-    "index.html": "/color_picker/index.html",
-    "main.12c48750.css.map": "/color_picker/static/css/main.12c48750.css.map",
-    "main.c9ff3ee6.js.map": "/color_picker/static/js/main.c9ff3ee6.js.map"
+    "main.css": "/react_deploy_gh/static/css/main.12c48750.css",
+    "main.js": "/react_deploy_gh/static/js/main.c9ff3ee6.js",
+    "index.html": "/react_deploy_gh/index.html",
+    "main.12c48750.css.map": "/react_deploy_gh/static/css/main.12c48750.css.map",
+    "main.c9ff3ee6.js.map": "/react_deploy_gh/static/js/main.c9ff3ee6.js.map"
   },
   "entrypoints": [
     "static/css/main.12c48750.css",
